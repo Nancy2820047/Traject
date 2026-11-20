@@ -102,7 +102,7 @@ The prototype is intended to demonstrate handling-event monitoring rather than d
 
 ## Project Team
 
-Developed by a five-member student team as part of the CSCI410 Internet of Things course at Nile University, Egypt.
+Developed by a five-member student team as part of the CSCI410 Internet of Things course.
 
 ## Project Status
 
